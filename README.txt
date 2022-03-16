@@ -10,6 +10,9 @@ Goals:
     Estimate the value to the services
 
 Instructions:
+
+    Please before run, take a look the requirements file to check if all methods needed are installed.
+    
     Please start your IDE executing the Webpage at index.php
 
     Login: admin
