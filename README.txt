@@ -1,6 +1,6 @@
-Complaince website
+Compliance website
 
-Complaince is a PHP dynamic webpage created to present the company services and user/service management. It was created as the final project from my Web-Programming course.
+Compliance is a PHP dynamic webpage created to present the company services and user/service management. It was created as the final project from my Web-Programming course.
 
 Goals:
     Easy access to detailed information about the services deliveried by the company
